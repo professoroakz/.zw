@@ -1,0 +1,7 @@
+# Family Structures System - Python Requirements
+# This system uses only Python standard library
+# No external dependencies required
+
+# Development/Testing (optional)
+# pytest>=7.0.0
+# coverage>=6.0.0
